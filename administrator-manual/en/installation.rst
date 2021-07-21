@@ -275,8 +275,8 @@ the system is rebooted and the following configuration is applied:
 Install on CentOS
 =================
 
-It is possible to install |product| on a fresh CentOS minimal installation using
-a couple of commands. This
+It is possible to install |product| on a fresh CentOS 7 minimal installation using
+a couple of commands. (CentOS 8 and CentOS-stream are not supported yet) This
 installation method is designed for virtual private servers (VPS) where CentOS
 comes already installed by the VPS provider.
 
